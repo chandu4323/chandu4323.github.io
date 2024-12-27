@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+title: "Chandu's Data Science Portfolio"
+description: "Data Scientist | Financial Analyst | Passionate about Solving Problems with Data"
+author: "Chandu"
+email: "pothuguntachandu10@gmail.com"
+url: "https://chandu4323.github.io"
+
+theme: jekyll-theme-leap-day
+
+# Social Links
+social:
+  github: "https://github.com/chandu4323"
+  linkedin: "https://linkedin.com/in/chandupo"
+  email: "mailto:pothuguntachandu10@gmail.com"
+
+# Professional touch
+quote: "Turning data into actionable insights, one analysis at a time."
